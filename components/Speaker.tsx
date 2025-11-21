@@ -34,7 +34,7 @@ export const Speaker: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-bold text-gray-900">Международный опыт</h4>
-                  <p className="text-gray-600">Строил 3 бизнеса с оборотом 41 млн...</p>
+                  <p className="text-gray-600">Построил 3 бизнеса с оборотом >$1 млн, начав с капитала менее $1000.</p>
                 </div>
               </div>
 
